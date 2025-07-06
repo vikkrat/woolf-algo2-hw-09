@@ -13,7 +13,7 @@
 ## 📁 Структура проєкту
 
 ```
-goit-algo2-hw-09/
+woolf-algo2-hw-09/
 ├── optimization/
 │ ├── hill_climbing.py
 │ ├── random_local_search.py
@@ -73,7 +73,7 @@ goit-algo2-hw-09/
 `cd woolf-algo2-hw-08`
 
 # Створення та активація віртуального середовища
-`python -m venv venvv
+`python -m venv venv`
 `source venv/bin/activate`  # або `venv\Scripts\activate` на Windows
 
 ### Встановлення залежностей
